@@ -1,3 +1,5 @@
+//Trata-se de pseudocódigo para calcular salário bruto e comissão com base no valor de vendas por um funcionário. O pseudocódigo foi criado para ser rodado no portugol em virtude do aprendizado na cadeira de lógica da programação na graduação
+
 programa
 {
 	
